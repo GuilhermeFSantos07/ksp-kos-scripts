@@ -12,6 +12,7 @@ ksp-kos-scripts/
 |   ├── expendeble.ks       #Lançamentos com o descarte do booster
 └── RO/                     #Pasta com scripts para o mod Realism Overhaul
     ├── expendeble.ks       #Lançamentos com o descarte do booster
+```
 
 ### 🛰️ Principais Automações & Status dos Scripts
 
