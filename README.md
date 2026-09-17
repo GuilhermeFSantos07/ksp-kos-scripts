@@ -1,4 +1,4 @@
-# 🚀 KPS KOS Automation Scripts
+# 🚀 KSP KOS Automation Scripts
 
 Este repositório contém alguns dos meus scripts usando o **Kerbal OS** que é um mod de piloto automatico desenvolvido para o jogo **Kerbal Space Program**
 
@@ -18,9 +18,10 @@ ksp-kos-scripts/
 
 | Automação / Módulo | Modo | Descrição | Status |
 | :--- | :---: | :--- | :---: |
-| **Expendeble** | Stock | Lançamento com descarte do booster principal | 🔴 Planejado |
+| **Expendeble** | Stock | Lançamento com descarte do booster principal | 🔴 Em Desenvolvimento |
 | **Reusable** | Stock | Lançamento com reutilização do primeiro estágio | 🔴 Planejado |
 | **Expendeble** | RO | Lançamento com descarte do booster principal com as regras do Realism Overhaul | 🔴 Planejado |
+| **Reusable** | RO | Lançamento com reutilização do booster principal com as regras do Realism Overhaul | 🔴 Planejado |
 
 > **Legenda de Status:**  
 > 🟢 Concluído e Testado | 🟡 Em Testes / Otimização | 🔴 Em Desenvolvimento / Planejado
